@@ -1,0 +1,11 @@
+node_modules/
+trustchain-frontend/node_modules/
+
+.env
+.env.local
+
+dist/
+trustchain-frontend/dist/
+
+.cache/
+.vite/
